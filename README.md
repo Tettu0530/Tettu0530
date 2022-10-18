@@ -5,6 +5,7 @@ import os, sys
 
 os.system("title README")
 
+
 README.Info(name="Tettu0530")
 
 class Main():
@@ -33,3 +34,10 @@ def read_me():
 if __name__ == "__main__":
    read_me()
 ```
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tettu0530&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530" />
+</a>
