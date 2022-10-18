@@ -16,7 +16,7 @@ class Main():
     
 def read_me():
   user_name = "Tettu0530"
-  age = "18"
+  age = str(random.randint(10, 20))
   language = [
   "Python", "PHP", "Ruby"
   ]
