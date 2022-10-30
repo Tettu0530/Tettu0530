@@ -41,4 +41,4 @@ if __name__ == "__main__":
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530" />
 </a>
-<img src="https://camo.githubusercontent.com/d41b0f5c0f2f625773622f4622883b08e3e0004f9b715dc4456cbee093b6fa8b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d742d6b6f64616930343137267468656d653d666c617426636f6c756d6e3d33" alt="Trophys" data-canonical-src="https://github-profile-trophy.vercel.app/?username=t-kodai0417&amp;theme=flat&amp;column=3" style="max-width: 100%;">
+
