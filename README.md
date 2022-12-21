@@ -41,4 +41,7 @@ if __name__ == "__main__":
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530" />
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tettu0530" />
+</a>
 
