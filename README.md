@@ -11,10 +11,10 @@
   <a href="https://github.com/Tettu0530/Tettu0530/">
     <img src="https://komarev.com/ghpvc/?username=Tettu0530" alt="Tettu0530" />
   </a>
-  <a href="https://github.com/Tettu0530">
-    <img height="20" src="https://img.shields.io/github/followers/Tettu0530?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/Tettu0530_Qiita">
+    <img height="20" src="https://img.shields.io/github/followers/Tettu0530_Qiita?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Tettu0530">
+  <a href="http://qiita.com/Tettu0530_Qiita">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Tettu0530_Qiita/posts.svg" />
   </a>
   <//qiita.com/Tettu0530">
