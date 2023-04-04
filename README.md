@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Tettu0530">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Tettu0530;Japanese+%7C+Student+%7C+Maybe+engineer;E.X.%3A+Discord+bots%2C+AI%2C+Useful+tool%2C+API;Lang%3A+Python%2C+PHP%2C+Java%2C+JS%2FTS" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Tettu0530;Japanese+%7C+Student+%7C+Maybe+engineer;E.X.%3A+Discord+bots%2C+AI%2C+Useful+tool%2C+API;Lang%3A+Python%2C+PHP%2C+Java%2C+JS%2FTS" alt="Typing SVG" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tettu0530" />
 </a>
