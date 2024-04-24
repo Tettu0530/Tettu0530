@@ -33,6 +33,9 @@
 <h1 align="center">自己紹介 About myself</h1>
     
 - 日本在住の学生 | I'm a student lived in Japan.
-- Python, PHP関連をよく扱っている | I often deal with Python, PHP related.
-- Discord Botを作るのが趣味 | My hobby is making Discord bots.
+- Python, PHP関連をよく扱っている | I often use Python, PHP related.
+- Discord Botを作るのが趣味 | My hobby is making Discord bot.
   - discord.pyを扱うことが多いです | I often use discord.py.
+- 最近は discord.jsを触ることが増えてきました。 | Recently, I started using discord.js.
+- フロントエンドも割と作れます。 | I can also create front-end.
+- 見かけたら優しくして下さい。 | Please be kind if you see me.
