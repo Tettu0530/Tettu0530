@@ -1,44 +1,93 @@
-<p align="center">
-<a href="https://github.com/Tettu0530">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Tettu0530;Japanese+%7C+Student+%7C+Maybe+engineer;E.X.%3A+Discord+bots%2C+AI%2C+tool%2C+API;Lang%3A+Python%2C+PHP%2C+Java%2C+JS%2FTS" alt="Typing SVG" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tettu0530&theme=dark&show_icons=true" />
-</a>
-</a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Tettu0530/Tettu0530/">
-    <img src="https://komarev.com/ghpvc/?username=Tettu0530" alt="Tettu0530" />
-  </a>
+<div align="center">
+  
   <a href="https://github.com/Tettu0530">
-    <img height="20" src="https://img.shields.io/github/followers/Tettu0530?label=follow&logo=github&style=flat" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=The+Full-Stack+Developer;Building+High-Quality+Apps;Powered+by+Next.js+&s" alt="Typing SVG" />
   </a>
-  <a href="http://qiita.com/Tettu0530_Qiita">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Tettu0530_Qiita/posts.svg" />
+
+  <br/>
+
+  <p style="color: #888888; font-family: sans-serif; font-size: 16px;">
+    Used by <b>Tettu0530</b> to create high-quality web applications <br/>
+    with the power of modern web technologies.
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/Tettu0530?tab=repositories">
+    <img src="https://img.shields.io/badge/View_Projects-white?style=for-the-badge&logo=github&logoColor=black" height="35" />
   </a>
-  <//qiita.com/Tettu0530_Qiita">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Tettu0530_Qiita/contributions.svg" />
+  &nbsp;
+  <a href="https://twitter.com/tettu0530">
+    <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" height="35" />
   </a>
-</p>
-    
-<h1 align="center">Hi 👋, I'm Tettu0530</h1>
-<h3 align="center">A amateur student programmer, living in JP.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/><br/>
 
+<h2 align="center">What's in My Stack?</h2>
+<p align="center">Everything you need to build great products on the web.</p>
 
-<h1 align="center">自己紹介 About myself</h1>
-    
-- 日本在住の学生 | I'm a student lived in Japan.
-- Python, PHP関連をよく扱っている | I often use Python, PHP related.
-- Discord Botを作るのが趣味 | My hobby is making Discord bot.
-  - discord.pyを扱うことが多いです | I often use discord.py.
-- 最近は discord.jsを触ることが増えてきました。 | Recently, I started using discord.js.
-- フロントエンドも割と作れます。 | I can also create front-end.
-- 見かけたら優しくして下さい。 | Please be kind if you see me.
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=react,astro,nextjs,ts" height="50" alt="Frontend" />
+      <br/>
+      <h3>Modern Frontend</h3>
+      <p>Building responsive, interactive UIs with the latest React Server Components, Next.js App Router and Astro.js.</p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=go,python,fastapi,rust" height="50" alt="Backend" />
+      <br/>
+      <h3>Scalable Backend</h3>
+      <p>Creating robust APIs and microservices. Focusing on performance, security, and type-safety.</p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="50" alt="DevOps" />
+      <br/>
+      <h3>Infrastructure</h3>
+      <p>Deploying to the edge. containerization, CI/CD pipelines, and cloud-native architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=bootstrap,css,tailwind" height="50" alt="Design" />
+      <br/>
+      <h3>UI/UX Design</h3>
+      <p>Crafting pixel-perfect experiences with Tailwind CSS and modern design systems.</p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=prisma,postgres,redis" height="50" alt="Database" />
+      <br/>
+      <h3>Data Management</h3>
+      <p>Handling data efficiently with modern ORMs and high-performance databases.</p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" alt="Tools" />
+      <br/>
+      <h3>Workflow</h3>
+      <p>Optimized developer experience with the best-in-class tooling and version control.</p>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<div align="center">
+  <h2>Powered By Open Source</h2>
+  
+  <br/>
+
+  <a href="https://github.com/Tettu0530">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tettu0530&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_title=false&bg_color=000000" alt="Stats" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&hide_title=false" height="130" alt="Langs" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" />
+</div>
