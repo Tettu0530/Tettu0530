@@ -1,5 +1,8 @@
 <div align="center">
-  
+
+  <p>
+    I'm...
+  </p>
   <a href="https://github.com/Tettu0530">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=The+Full-Stack+Developer;Building+High-Quality+Apps;Powered+by+Next.js+&s" alt="Typing SVG" />
   </a>
