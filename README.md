@@ -23,6 +23,9 @@
   <a href="https://twitter.com/tettu0530">
     <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" height="35" />
   </a>
+  <a href="https://技術者倫理.com">
+    <img src="https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="技術者倫理 遵守済み" />
+  </a>
 
 </div>
 
