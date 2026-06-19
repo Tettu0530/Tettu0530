@@ -4,7 +4,7 @@
     I'm...
   </p>
   <a href="https://github.com/Tettu0530">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=The+Full-Stack+Developer;Building+High-Quality+Apps;Powered+by+Next.js+&s" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=The+Full-Stack+Developer;Building+High-Quality+Apps;Powered+by+Next.js+%26+Go" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,6 +31,20 @@
 
 <br/><br/>
 
+<div align="left">
+
+  ```typescript
+  const tettu = {
+      role:    "Full-Stack Developer",
+      focus:   ["Web Apps", "Performance", "Type-Safety"],
+      stack:   "Next.js · Python · Rust",
+  };
+  ```
+
+</div>
+
+<br/>
+
 <h2 align="center">What's in My Stack?</h2>
 <p align="center">Everything you need to build great products on the web.</p>
 
@@ -52,7 +66,7 @@
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="50" alt="DevOps" />
       <br/>
       <h3>Infrastructure</h3>
-      <p>Deploying to the edge. containerization, CI/CD pipelines, and cloud-native architecture.</p>
+      <p>Deploying to the edge with containerization, CI/CD pipelines, and cloud-native architecture.</p>
     </td>
   </tr>
   <tr>
@@ -87,6 +101,8 @@
   <a href="https://github.com/Tettu0530">
     <img src="https://github-readme-stats.vercel.app/api?username=Tettu0530&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_title=false&bg_color=000000" alt="Stats" />
   </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tettu0530&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&hide_title=false" height="130" alt="Langs" />
 
