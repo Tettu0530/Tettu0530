@@ -1,115 +1,108 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-  <p>
-    I'm...
-  </p>
-  <a href="https://github.com/Tettu0530">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=The+Full-Stack+Developer;Building+High-Quality+Apps;Powered+by+Next.js+%26+Go" alt="Typing SVG" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0f0c29,50:302b63,100:24243e&text=Tettu0530&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img alt="Tettu0530" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:e0eafc,100:cfdef3&text=Tettu0530&fontColor=111111&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
+</picture>
 
-  <br/>
+<a href="https://github.com/Tettu0530">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=640&lines=Building+high-quality+web+apps;Type-safe+from+DB+to+UI;Next.js+%C2%B7+Go+%C2%B7+Python+%C2%B7+Rust" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=800&color=111111&center=true&vCenter=true&width=640&lines=Building+high-quality+web+apps;Type-safe+from+DB+to+UI;Next.js+%C2%B7+Go+%C2%B7+Python+%C2%B7+Rust" />
+  </picture>
+</a>
 
-  <p style="color: #888888; font-family: sans-serif; font-size: 16px;">
-    Used by <b>Tettu0530</b> to create high-quality web applications <br/>
-    with the power of modern web technologies.
-  </p>
-
-  <br/>
-
-  <a href="https://github.com/Tettu0530?tab=repositories">
-    <img src="https://img.shields.io/badge/View_Projects-white?style=for-the-badge&logo=github&logoColor=black" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/tettu0530">
-    <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" height="35" />
-  </a>
-  <a href="https://技術者倫理.com">
-    <img src="https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="技術者倫理 遵守済み" />
-  </a>
+<p>
+  <a href="https://github.com/Tettu0530?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://x.com/tettu0530"><img src="https://img.shields.io/badge/@tettu0530-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://技術者倫理.com"><img src="https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="技術者倫理 遵守済み" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Tettu0530&style=for-the-badge&color=302b63&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
 
-<br/><br/>
+<!-- ===================== ABOUT ===================== -->
+## 👋 About Me
 
-<div align="left">
+```ts
+const tettu = {
+  role:    "Full-Stack Developer",
+  focus:   ["Web Apps", "Performance", "Type-Safety", "DX"],
+  stack:   ["Next.js", "Go", "Python", "Rust"],
+  motto:   "Ship fast. Ship safe. Ship quality.",
+} as const satisfies Developer;
+```
 
-  ```typescript
-  const tettu = {
-      role:    "Full-Stack Developer",
-      focus:   ["Web Apps", "Performance", "Type-Safety"],
-      stack:   "Next.js · Python · Rust",
-  };
-  ```
+- 🚀 React Server Components / Next.js App Router を中心にモダンな Web アプリを開発
+- ⚙️ Go・Rust・FastAPI で高速かつ型安全な API / マイクロサービスを設計
+- ☁️ Docker・Kubernetes・AWS によるクラウドネイティブなインフラ構築
+- 🤝 コラボレーション・お仕事のご相談は [X (@tettu0530)](https://x.com/tettu0530) まで
 
-</div>
+<!-- ===================== STACK ===================== -->
+## 🛠️ Tech Stack
 
-<br/>
-
-<h2 align="center">What's in My Stack?</h2>
-<p align="center">Everything you need to build great products on the web.</p>
-
-<table align="center" border="0">
+<table>
   <tr>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=react,astro,nextjs,ts" height="50" alt="Frontend" />
-      <br/>
-      <h3>Modern Frontend</h3>
-      <p>Building responsive, interactive UIs with the latest React Server Components, Next.js App Router and Astro.js.</p>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,tailwind,css&perline=6" alt="Frontend" /><br/>
+      <sub>RSC・App Router・Astro による高速でインタラクティブな UI</sub>
     </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=go,python,fastapi,rust" height="50" alt="Backend" />
-      <br/>
-      <h3>Scalable Backend</h3>
-      <p>Creating robust APIs and microservices. Focusing on performance, security, and type-safety.</p>
-    </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="50" alt="DevOps" />
-      <br/>
-      <h3>Infrastructure</h3>
-      <p>Deploying to the edge with containerization, CI/CD pipelines, and cloud-native architecture.</p>
+    <td width="50%" valign="top">
+      <h4>⚡ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=go,rust,python,fastapi&perline=6" alt="Backend" /><br/>
+      <sub>パフォーマンス・セキュリティ・型安全性を重視した API 設計</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=bootstrap,css,tailwind" height="50" alt="Design" />
-      <br/>
-      <h3>UI/UX Design</h3>
-      <p>Crafting pixel-perfect experiences with Tailwind CSS and modern design systems.</p>
+    <td width="50%" valign="top">
+      <h4>🗄️ Data</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,prisma&perline=6" alt="Data" /><br/>
+      <sub>モダン ORM と高性能データベースによる効率的なデータ管理</sub>
     </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=prisma,postgres,redis" height="50" alt="Database" />
-      <br/>
-      <h3>Data Management</h3>
-      <p>Handling data efficiently with modern ORMs and high-performance databases.</p>
-    </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" alt="Tools" />
-      <br/>
-      <h3>Workflow</h3>
-      <p>Optimized developer experience with the best-in-class tooling and version control.</p>
+    <td width="50%" valign="top">
+      <h4>☁️ Infra & Tooling</h4>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,vscode&perline=6" alt="Infra" /><br/>
+      <sub>コンテナ化・CI/CD・クラウドネイティブなアーキテクチャ</sub>
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <h2>Powered By Open Source</h2>
-  
-  <br/>
 
-  <a href="https://github.com/Tettu0530">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tettu0530&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_title=false&bg_color=000000" alt="Stats" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tettu0530&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&hide_title=false" height="130" alt="Langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tettu0530&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=a78bfa" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tettu0530&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=111111&text_color=444444&icon_color=6d28d9" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ffffff&text_color=c9d1d9" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tettu0530&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=111111&text_color=444444" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tettu0530&hide_border=true&background=00000000&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Tettu0530&hide_border=true&background=00000000&ring=6d28d9&fire=6d28d9&currStreakLabel=111111&sideLabels=444444&dates=666666&currStreakNum=111111&sideNums=111111&stroke=d0d7de" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tettu0530&bg_color=00000000&color=c9d1d9&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tettu0530&bg_color=00000000&color=444444&line=6d28d9&point=111111&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity" />
+</picture>
 
 </div>
 
-<br/>
-
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" />
+
+<sub>Powered by open source · Built with ❤️ by <a href="https://github.com/Tettu0530">Tettu0530</a></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:e0eafc,100:cfdef3" />
+</picture>
+
 </div>
